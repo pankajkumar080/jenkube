@@ -14,4 +14,4 @@
 [Automation using Kubernetes from Developer to Production System for CI/CD🤠](https://medium.com/@ghumare64/automation-using-kubernetes-from-developer-to-production-system-for-ci-cd-b766ea783e?source=friends_link&sk=7cc8ae4e63e787ce19eefdaee8e49599)
 
 # Author
-[Rohit Ghumare](https://github.com/rohitg00)
+[Pankaj Kumar)
